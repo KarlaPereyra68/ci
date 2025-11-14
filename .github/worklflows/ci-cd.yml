@@ -1,0 +1,14 @@
+name:
+
+ on: 
+  push:
+
+  jobs:
+  ci:
+   name: CI
+   runs on: ubuntu-latest
+  steps:
+
+
+
+  
